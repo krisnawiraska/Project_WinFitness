@@ -10,5 +10,14 @@ class katalogController {
         }
         return res.status(200).json(result_katalog)
     }
+    static editCatalog (req,res){
+
+    }
+    static indexkatalogDetail(req,res){
+
+    }
+    static addKatalogDetail(req,res){
+        
+    }
 }
 module.exports = katalogController
